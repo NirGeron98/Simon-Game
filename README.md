@@ -65,14 +65,6 @@ Here’s a quick look at what the game looks like:
 - Enhance mobile responsiveness.
 - Add more visual effects and animations for a more dynamic experience.
 
-## Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/your-username/simon-game/issues).
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgements
 
 - [The Complete 2024 Web Development Bootcamp Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy for the original project.
